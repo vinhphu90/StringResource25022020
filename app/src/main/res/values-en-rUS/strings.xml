@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StringResource25022020</string>
+    <string name="string_title">Login System</string>
+    <string name="string_tai_khoan">Account</string>
+    <string name="string_mat_khau">Password</string>
+    <string name="string_dang_nhap">Login</string>
+</resources>
